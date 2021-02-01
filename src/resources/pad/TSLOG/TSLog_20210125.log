@@ -1,0 +1,1822 @@
+[2021-01-25 09:55:51:990][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:55:51:991][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 09:55:52:000][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 09:55:52:000][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:55:52:069][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1896]iPort[6]
+[2021-01-25 09:55:52:069][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:55:55:099][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:55:55:110][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:55:55:110][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:55:55:111][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:55:55:111][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:55:55:158][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:55:55:159][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:55:55:163][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1900]iPort[6]
+[2021-01-25 09:55:55:163][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:55:58:193][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:55:58:193][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:55:58:193][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:55:58:193][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:55:58:193][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:55:58:195][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:55:58:196][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:55:58:201][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1884]iPort[6]
+[2021-01-25 09:55:58:201][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:56:01:231][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:56:01:231][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:56:01:231][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:56:01:231][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:56:01:231][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:56:01:236][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:56:01:236][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:56:01:241][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1820]iPort[6]
+[2021-01-25 09:56:01:241][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:56:04:271][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:56:04:271][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:56:04:271][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:56:04:271][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:56:04:271][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:56:04:272][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:56:04:273][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:56:04:277][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1888]iPort[6]
+[2021-01-25 09:56:04:277][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:56:07:620][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 09:56:07:620][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:56:07:620][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:56:07:620][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:56:55:740][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:56:55:741][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:56:55:807][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1360]iPort[6]
+[2021-01-25 09:56:55:807][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:56:58:837][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:56:58:837][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:56:58:837][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:56:58:837][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:56:58:837][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:56:58:839][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:56:58:839][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:56:58:843][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1364]iPort[6]
+[2021-01-25 09:56:58:843][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:01:873][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:01:873][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:01:873][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:01:873][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:01:873][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:01:875][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:01:876][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:01:881][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1840]iPort[6]
+[2021-01-25 09:57:01:881][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:04:911][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:04:911][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:04:911][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:04:911][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:04:911][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:04:912][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:04:913][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:04:917][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1432]iPort[6]
+[2021-01-25 09:57:04:917][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:07:947][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:07:947][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:07:947][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:07:947][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:07:947][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:07:949][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:07:950][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:07:953][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1816]iPort[6]
+[2021-01-25 09:57:07:953][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:10:983][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:10:983][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:10:983][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:10:983][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:10:983][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:10:984][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:10:985][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:10:989][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1404]iPort[6]
+[2021-01-25 09:57:10:989][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:14:019][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:14:019][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:14:019][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:14:019][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:14:019][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:14:021][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:14:021][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:14:025][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1528]iPort[6]
+[2021-01-25 09:57:14:025][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:17:055][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:17:055][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:17:055][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:17:055][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:17:055][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:17:058][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:17:059][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:17:063][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1756]iPort[6]
+[2021-01-25 09:57:17:063][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:20:093][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:20:093][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:20:093][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:20:093][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:20:093][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:20:094][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:20:095][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:20:099][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1840]iPort[6]
+[2021-01-25 09:57:20:099][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:23:129][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:23:129][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:23:129][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:23:129][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:23:129][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:23:131][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:23:132][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:23:135][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1820]iPort[6]
+[2021-01-25 09:57:23:135][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:26:165][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:26:165][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:26:165][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:26:165][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:26:165][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:26:167][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:26:167][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:26:171][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1816]iPort[6]
+[2021-01-25 09:57:26:171][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:29:201][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:29:201][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:29:201][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:29:201][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:29:201][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:29:202][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:29:203][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:29:207][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1524]iPort[6]
+[2021-01-25 09:57:29:207][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:32:237][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:32:237][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:32:237][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:32:237][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:32:237][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:32:240][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:32:241][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:32:245][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1756]iPort[6]
+[2021-01-25 09:57:32:245][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:35:275][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:35:275][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:35:275][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:35:275][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:35:275][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:35:277][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:35:277][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:35:281][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1892]iPort[6]
+[2021-01-25 09:57:35:281][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:38:311][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:38:311][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:38:311][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:38:311][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:38:311][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:38:314][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:38:314][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:38:319][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1820]iPort[6]
+[2021-01-25 09:57:38:319][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:41:349][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:41:349][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:41:349][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:41:349][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:41:349][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:41:352][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:41:353][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:41:357][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1524]iPort[6]
+[2021-01-25 09:57:41:357][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:44:387][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:44:387][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:44:387][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:44:387][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:44:387][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:44:389][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:44:390][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:44:395][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1756]iPort[6]
+[2021-01-25 09:57:44:395][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:47:425][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:47:425][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:47:425][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:47:425][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:47:425][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:47:428][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:47:428][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:47:433][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1840]iPort[6]
+[2021-01-25 09:57:47:433][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:50:463][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:50:463][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:50:463][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:50:463][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:50:463][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:50:466][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:50:466][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:50:471][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2020]iPort[6]
+[2021-01-25 09:57:50:471][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:53:501][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:53:501][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:53:501][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:53:501][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:53:501][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:53:503][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:53:504][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:53:509][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1816]iPort[6]
+[2021-01-25 09:57:53:509][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:56:539][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:56:539][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:56:539][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:56:539][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:56:539][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:56:544][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:56:544][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:56:549][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1556]iPort[6]
+[2021-01-25 09:57:56:549][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:57:59:579][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:57:59:579][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:57:59:579][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:57:59:579][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:57:59:579][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:57:59:582][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:57:59:582][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:57:59:587][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1360]iPort[6]
+[2021-01-25 09:57:59:587][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:02:617][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:02:617][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:02:617][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:02:617][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:02:617][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:02:620][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:02:621][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:02:625][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1988]iPort[6]
+[2021-01-25 09:58:02:625][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:05:655][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:05:655][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:05:655][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:05:655][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:05:655][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:05:656][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:05:657][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:05:661][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1364]iPort[6]
+[2021-01-25 09:58:05:661][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:08:691][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:08:691][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:08:691][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:08:691][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:08:691][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:08:693][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:08:694][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:08:699][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1820]iPort[6]
+[2021-01-25 09:58:08:699][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:11:729][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:11:729][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:11:729][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:11:729][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:11:729][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:11:732][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:11:733][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:11:737][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2020]iPort[6]
+[2021-01-25 09:58:11:737][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:14:767][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:14:767][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:14:767][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:14:767][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:14:767][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:14:769][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:14:770][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:14:773][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1360]iPort[6]
+[2021-01-25 09:58:14:773][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:17:803][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:17:803][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:17:803][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:17:803][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:17:803][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:17:806][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:17:807][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:17:811][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1988]iPort[6]
+[2021-01-25 09:58:17:811][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:20:841][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:20:841][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:20:841][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:20:841][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:20:841][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:20:843][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:20:844][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:20:847][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1756]iPort[6]
+[2021-01-25 09:58:20:847][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:23:877][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:23:877][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:23:877][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:23:877][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:23:877][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:29:212][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:29:213][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:29:279][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1960]iPort[6]
+[2021-01-25 09:58:29:279][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:32:309][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 09:58:32:309][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 09:58:32:309][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:32:309][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:32:309][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 09:58:39:175][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 09:58:39:175][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 09:58:39:243][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1008]iPort[6]
+[2021-01-25 09:58:39:243][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 09:58:40:602][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 09:58:40:602][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 09:58:40:602][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 09:58:40:602][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 10:00:17:249][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 10:00:17:250][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 10:00:17:317][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2016]iPort[6]
+[2021-01-25 10:00:17:317][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 10:00:18:650][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 10:00:18:650][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 10:00:18:650][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 10:00:18:650][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 11:37:13:951][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 11:37:13:951][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 11:37:13:956][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 11:37:13:956][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 11:37:13:958][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 11:37:13:958][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 11:37:13:958][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 11:37:13:958][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:42:22:994][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:42:22:994][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 13:42:22:999][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 13:42:22:999][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:42:23:001][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:42:23:001][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:42:23:001][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:42:23:002][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:44:11:845][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:44:11:845][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:44:11:846][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:44:11:846][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:44:11:846][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:44:11:846][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:44:13:345][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:44:13:346][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:44:13:346][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:44:13:346][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:44:13:346][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:44:13:346][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:44:14:845][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:44:14:845][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:44:14:846][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:44:14:846][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:44:14:846][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:44:14:846][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:46:38:047][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:46:38:048][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:46:38:048][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:46:38:048][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:46:38:048][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:46:38:048][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:46:41:897][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:46:41:898][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:46:41:898][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:46:41:898][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:46:41:898][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:46:41:898][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:46:43:396][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:46:43:397][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:46:43:397][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:46:43:397][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:46:43:397][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:46:43:397][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 13:46:44:897][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 13:46:44:898][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 13:46:44:898][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 13:46:44:898][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 13:46:44:898][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 13:46:44:898][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:09:29:099][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:09:29:099][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:09:29:104][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:09:29:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:09:29:106][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:09:29:106][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:09:29:106][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:09:29:106][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:15:13:859][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:15:13:860][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:15:13:861][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:15:13:861][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:15:13:861][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:15:13:861][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:46:524][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:46:525][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:46:591][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2984]iPort[6]
+[2021-01-25 16:16:46:591][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:47:874][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:47:874][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:47:874][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:47:874][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:48:024][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:48:025][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:48:029][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[3012]iPort[6]
+[2021-01-25 16:16:48:029][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:49:322][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:49:322][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:49:322][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:49:322][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:49:524][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:49:524][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:49:527][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[3024]iPort[6]
+[2021-01-25 16:16:49:527][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:50:810][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:50:810][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:50:810][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:50:810][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:51:024][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:51:025][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:51:029][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2932]iPort[6]
+[2021-01-25 16:16:51:029][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:52:316][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:52:316][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:52:317][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:52:317][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:52:524][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:52:526][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:52:529][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2316]iPort[6]
+[2021-01-25 16:16:52:529][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:53:812][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:53:812][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:53:812][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:53:812][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:54:024][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:54:025][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:54:029][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2660]iPort[6]
+[2021-01-25 16:16:54:029][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:16:55:320][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:16:55:320][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:16:55:321][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:16:55:321][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:16:59:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:16:59:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:16:59:355][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2836]iPort[6]
+[2021-01-25 16:16:59:355][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:00:638][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:17:00:638][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:00:638][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:00:638][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:00:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:00:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:00:793][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2696]iPort[6]
+[2021-01-25 16:17:00:793][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:02:076][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:17:02:076][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:02:076][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:02:076][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:02:289][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:02:290][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:02:293][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2820]iPort[6]
+[2021-01-25 16:17:02:294][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:03:580][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:17:03:591][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:03:591][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:03:591][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:03:789][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:03:790][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:03:793][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2808]iPort[6]
+[2021-01-25 16:17:03:793][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:05:086][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:17:05:086][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:05:086][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:05:087][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:05:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:05:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:05:293][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2832]iPort[6]
+[2021-01-25 16:17:05:293][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:06:576][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:17:06:576][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:06:576][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:06:576][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:06:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:06:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:06:793][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2720]iPort[6]
+[2021-01-25 16:17:06:793][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:09:823][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:17:09:823][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:17:09:823][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:09:823][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:09:824][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:09:826][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:09:826][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:09:829][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2800]iPort[6]
+[2021-01-25 16:17:09:829][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:12:859][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:17:12:859][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:17:12:859][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:12:859][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:12:859][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:12:860][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:12:861][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:12:865][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2744]iPort[6]
+[2021-01-25 16:17:12:865][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:15:895][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:17:15:896][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:17:15:896][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:15:896][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:15:896][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:15:897][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:15:898][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:15:901][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2872]iPort[6]
+[2021-01-25 16:17:15:901][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:18:931][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:17:18:932][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:17:18:932][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:18:932][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:18:932][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:18:933][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:18:934][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:18:937][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2832]iPort[6]
+[2021-01-25 16:17:18:937][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:21:967][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:17:21:967][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:17:21:967][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:21:967][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:21:967][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:21:969][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:21:969][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:21:973][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2808]iPort[6]
+[2021-01-25 16:17:21:973][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:17:22:686][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-6]
+[2021-01-25 16:17:22:686][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:17:22:686][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:17:22:686][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:23:289][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:23:290][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:23:291][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:23:291][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:23:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:23:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:24:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:24:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:24:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:24:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:24:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:24:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:26:287][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:26:288][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:26:289][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:26:289][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:26:289][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:26:289][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:27:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:27:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:27:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:27:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:27:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:27:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:29:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:29:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:29:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:29:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:29:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:29:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:30:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:30:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:30:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:30:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:30:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:30:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:32:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:32:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:32:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:32:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:32:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:32:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:33:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:33:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:33:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:33:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:33:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:33:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:35:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:35:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:35:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:35:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:35:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:35:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:36:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:36:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:36:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:36:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:36:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:36:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:38:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:38:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:38:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:38:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:38:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:38:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:39:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:39:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:39:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:39:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:39:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:39:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:41:289][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:41:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:41:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:41:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:41:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:41:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:42:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:42:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:42:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:42:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:42:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:42:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:44:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:44:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:44:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:44:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:44:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:44:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:45:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:45:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:45:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:45:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:45:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:45:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:47:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:47:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:47:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:47:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:47:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:47:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:48:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:48:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:48:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:48:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:48:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:48:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:50:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:50:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:50:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:50:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:50:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:50:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:51:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:51:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:51:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:51:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:51:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:51:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:53:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:53:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:53:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:53:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:53:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:53:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:54:787][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:54:788][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:54:788][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:54:788][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:54:788][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:54:788][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:56:287][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:56:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:56:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:56:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:56:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:56:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:57:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:57:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:57:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:57:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:57:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:57:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:17:59:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:17:59:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:17:59:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:17:59:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:17:59:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:17:59:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:00:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:00:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:00:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:00:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:00:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:00:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:02:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:02:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:02:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:02:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:02:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:02:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:03:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:03:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:03:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:03:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:03:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:03:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:05:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:05:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:05:289][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:05:289][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:05:289][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:05:289][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:06:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:06:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:06:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:06:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:06:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:06:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:08:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:08:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:08:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:08:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:08:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:08:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:09:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:09:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:09:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:09:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:09:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:09:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:11:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:11:288][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:11:289][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:11:289][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:11:289][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:11:289][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:12:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:12:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:12:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:12:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:12:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:12:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:14:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:14:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:14:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:14:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:14:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:14:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:15:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:15:788][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:15:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:15:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:15:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:15:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:17:287][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:17:288][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:17:288][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:17:288][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:17:288][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:17:289][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:18:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:18:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:18:789][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:18:789][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:18:789][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:18:789][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:20:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:20:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:20:289][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:20:289][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:20:289][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:20:289][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:21:789][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:21:790][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:21:791][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:21:791][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:21:791][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:21:791][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:23:288][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:23:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:23:290][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:23:290][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:23:290][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:23:290][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:24:788][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:24:789][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:24:790][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:24:790][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:24:790][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:24:790][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:46:294][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:46:294][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:18:46:299][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:18:46:299][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:46:301][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:46:301][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:46:301][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:46:301][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:47:791][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:47:792][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:47:793][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:47:793][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:47:793][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:47:793][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:49:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:49:291][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:49:292][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:49:292][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:49:292][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:49:292][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:50:789][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:50:790][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:50:791][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:50:791][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:50:791][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:50:791][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:52:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:52:291][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:52:291][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:52:291][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:52:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:52:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:53:790][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:53:791][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:53:792][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:53:792][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:53:792][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:53:792][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:55:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:55:291][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:55:291][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:55:291][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:55:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:55:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:56:789][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:56:791][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:56:791][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:56:791][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:56:791][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:56:791][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:58:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:58:291][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:58:292][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:58:292][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:58:292][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:58:292][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:18:59:790][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:18:59:791][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:18:59:792][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:18:59:792][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:18:59:792][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:18:59:792][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:01:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:01:290][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:01:291][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:19:01:291][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:19:01:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:19:01:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:02:790][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:02:791][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:02:791][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:19:02:791][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:19:02:791][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:19:02:791][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:04:290][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:04:290][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:04:291][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:19:04:291][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:19:04:291][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:19:04:291][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:05:789][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:05:790][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:05:791][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 16:19:05:791][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 16:19:05:791][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 16:19:05:791][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:36:574][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:36:574][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:19:36:579][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:19:36:579][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:36:647][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1868]iPort[6]
+[2021-01-25 16:19:36:647][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:37:935][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:37:935][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:37:935][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:37:935][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:38:069][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:38:070][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:38:073][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1920]iPort[6]
+[2021-01-25 16:19:38:074][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:39:360][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:39:360][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:39:360][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:39:360][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:39:570][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:39:571][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:39:575][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1932]iPort[6]
+[2021-01-25 16:19:39:575][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:40:868][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:40:868][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:40:868][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:40:868][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:41:069][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:41:070][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:41:073][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1944]iPort[6]
+[2021-01-25 16:19:41:073][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:42:366][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:42:367][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:42:367][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:42:367][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:42:569][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:42:570][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:42:573][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1956]iPort[6]
+[2021-01-25 16:19:42:573][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:43:856][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:43:856][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:43:857][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:43:857][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:44:070][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:44:071][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:44:075][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1300]iPort[6]
+[2021-01-25 16:19:44:075][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:45:368][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-14]
+[2021-01-25 16:19:45:368][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:45:368][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:45:368][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:45:570][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:45:571][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:45:575][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1968]iPort[6]
+[2021-01-25 16:19:45:575][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:48:605][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:19:48:606][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:19:48:606][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:48:606][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:48:606][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:19:48:607][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 16:19:48:608][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:19:48:611][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1980]iPort[6]
+[2021-01-25 16:19:48:611][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:19:51:641][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:19:51:641][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:19:51:642][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:19:51:642][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:19:51:642][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:23:04:258][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:23:04:259][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:23:04:263][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:23:04:263][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:23:04:331][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1868]iPort[6]
+[2021-01-25 16:23:04:331][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:23:05:637][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:23:05:637][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:23:05:637][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:23:05:637][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:23:20:334][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:23:20:334][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:23:20:401][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2176]iPort[6]
+[2021-01-25 16:23:20:401][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:23:22:705][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:23:22:705][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:23:22:705][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:23:22:705][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:23:36:346][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:23:36:347][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:23:36:413][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2352]iPort[6]
+[2021-01-25 16:23:36:414][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:23:37:742][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:23:37:742][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:23:37:742][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:23:37:742][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:23:47:522][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:23:47:523][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:23:47:589][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2536]iPort[6]
+[2021-01-25 16:23:47:589][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:23:54:957][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:23:54:958][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:23:54:958][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:23:54:958][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:23:54:958][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:23:54:960][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:23:54:960][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:23:54:965][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2528]iPort[6]
+[2021-01-25 16:23:54:966][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:23:56:278][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:23:56:278][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:23:56:278][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:23:56:278][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:25:58:492][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:25:58:492][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:25:58:557][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2488]iPort[6]
+[2021-01-25 16:25:58:558][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:01:587][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:26:01:588][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:26:01:588][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:01:588][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:01:588][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:01:591][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:01:591][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:01:595][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[3064]iPort[6]
+[2021-01-25 16:26:01:595][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:02:899][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:26:02:899][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:02:899][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:02:899][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:12:064][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:12:065][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:12:131][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[3004]iPort[6]
+[2021-01-25 16:26:12:131][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:15:161][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:26:15:162][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:26:15:162][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:15:162][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:15:162][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:15:165][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:15:166][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:15:169][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2372]iPort[6]
+[2021-01-25 16:26:15:169][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:17:464][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:26:17:464][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:17:464][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:17:464][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:27:310][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:27:311][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:27:377][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2372]iPort[6]
+[2021-01-25 16:26:27:377][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:28:684][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:26:28:684][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:28:684][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:28:684][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:33:944][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:33:945][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:34:011][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1796]iPort[6]
+[2021-01-25 16:26:34:012][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:35:304][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:26:35:304][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:35:304][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:35:304][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:26:48:148][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:26:48:149][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:26:48:215][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2488]iPort[6]
+[2021-01-25 16:26:48:215][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:26:49:523][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:26:49:523][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:26:49:523][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:26:49:523][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:45:25:599][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:45:25:599][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:45:25:604][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:45:25:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:45:25:672][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1900]iPort[6]
+[2021-01-25 16:45:25:672][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:45:28:702][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:45:28:702][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:45:28:702][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:45:28:702][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:45:28:702][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:45:28:750][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:45:28:750][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:45:28:754][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1896]iPort[6]
+[2021-01-25 16:45:28:754][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:45:31:047][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:45:31:047][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:45:31:047][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:45:31:047][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:45:53:588][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:45:53:590][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:45:53:656][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2008]iPort[6]
+[2021-01-25 16:45:53:656][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:45:56:686][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:45:56:686][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:45:56:686][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:45:56:686][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:45:56:686][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:45:56:688][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:45:56:688][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:45:56:692][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1840]iPort[6]
+[2021-01-25 16:45:56:692][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:45:59:722][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:45:59:722][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:45:59:722][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:45:59:722][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:45:59:722][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:45:59:726][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:45:59:727][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:45:59:732][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2000]iPort[6]
+[2021-01-25 16:45:59:732][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:02:762][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:02:762][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:02:762][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:02:762][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:02:762][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:02:765][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:02:765][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:02:769][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1348]iPort[6]
+[2021-01-25 16:46:02:770][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:05:800][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:05:800][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:05:800][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:05:800][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:05:800][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:05:802][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:05:803][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:05:806][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1596]iPort[6]
+[2021-01-25 16:46:05:806][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:08:089][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:46:08:089][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:08:089][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:08:089][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:30:917][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:30:917][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:30:984][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1036]iPort[6]
+[2021-01-25 16:46:30:984][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:34:014][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:34:014][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:34:014][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:34:014][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:34:014][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:34:015][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:34:015][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:34:020][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1840]iPort[6]
+[2021-01-25 16:46:34:020][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:37:050][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:37:050][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:37:050][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:37:050][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:37:050][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:37:052][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:37:052][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:37:056][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2044]iPort[6]
+[2021-01-25 16:46:37:056][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:40:086][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:40:086][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:40:086][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:40:086][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:40:086][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:40:089][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:40:089][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:40:094][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1432]iPort[6]
+[2021-01-25 16:46:40:094][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:43:124][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:43:124][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:43:124][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:43:124][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:43:124][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:43:126][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:43:126][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:43:130][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1380]iPort[6]
+[2021-01-25 16:46:43:130][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:46:160][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:46:160][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:46:160][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:46:160][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:46:160][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:46:161][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:46:162][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:46:166][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2068]iPort[6]
+[2021-01-25 16:46:46:166][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:49:196][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:49:196][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:49:196][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:49:196][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:49:196][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:49:197][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:49:198][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:49:202][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1380]iPort[6]
+[2021-01-25 16:46:49:202][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:52:232][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:52:232][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:52:232][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:52:232][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:52:232][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:55:865][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:55:866][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:55:932][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1852]iPort[6]
+[2021-01-25 16:46:55:932][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:46:58:962][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:46:58:962][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:46:58:962][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:46:58:962][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:46:58:962][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:46:58:963][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:46:58:963][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:46:58:968][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1464]iPort[6]
+[2021-01-25 16:46:58:968][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:01:266][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:47:01:266][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:01:266][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:01:266][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:47:23:781][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:47:23:782][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:47:23:848][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2036]iPort[6]
+[2021-01-25 16:47:23:848][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:26:878][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:47:26:878][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:47:26:878][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:26:878][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:26:878][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:47:26:880][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:47:26:880][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:47:26:884][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1492]iPort[6]
+[2021-01-25 16:47:26:884][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:29:914][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:47:29:914][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:47:29:914][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:29:914][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:29:914][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:47:29:919][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:47:29:920][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:47:29:924][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2016]iPort[6]
+[2021-01-25 16:47:29:924][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:32:954][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:47:32:954][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:47:32:954][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:32:954][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:32:954][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:47:32:958][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:47:32:959][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:47:32:964][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1968]iPort[6]
+[2021-01-25 16:47:32:964][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:35:994][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:47:35:994][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:47:35:994][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:35:994][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:35:994][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:47:35:996][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:47:35:997][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:47:36:002][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1888]iPort[6]
+[2021-01-25 16:47:36:002][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:47:38:300][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:47:38:300][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:47:38:300][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:47:38:300][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:49:47:997][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:49:47:998][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:49:48:064][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2296]iPort[6]
+[2021-01-25 16:49:48:064][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:49:55:506][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:49:55:506][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:49:55:506][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:49:55:506][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:49:55:506][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:49:55:508][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:49:55:508][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:49:55:512][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2264]iPort[6]
+[2021-01-25 16:49:55:512][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:49:58:542][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:49:58:542][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:49:58:542][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:49:58:542][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:49:58:542][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:49:58:544][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:49:58:544][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:49:58:548][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2268]iPort[6]
+[2021-01-25 16:49:58:548][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:01:578][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:01:578][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:01:578][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:01:578][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:01:578][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:06:622][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:06:622][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:06:690][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2240]iPort[6]
+[2021-01-25 16:50:06:690][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:08:984][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:08:984][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:08:984][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:08:984][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:13:419][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:13:419][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:13:486][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2284]iPort[6]
+[2021-01-25 16:50:13:486][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:16:516][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:16:516][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:16:516][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:16:516][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:16:516][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:16:517][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:16:518][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:16:522][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2240]iPort[6]
+[2021-01-25 16:50:16:522][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:19:840][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:19:840][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:19:840][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:19:840][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:21:347][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:21:348][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:21:414][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2248]iPort[6]
+[2021-01-25 16:50:21:414][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:22:722][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:22:722][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:22:722][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:22:722][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:24:502][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:24:503][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:24:570][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2164]iPort[6]
+[2021-01-25 16:50:24:570][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:31:984][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:31:984][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:31:984][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:31:984][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:31:984][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:31:988][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:31:989][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:31:994][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2136]iPort[6]
+[2021-01-25 16:50:31:994][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:35:278][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:35:278][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:35:278][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:35:278][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:35:284][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:35:284][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:35:288][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2024]iPort[6]
+[2021-01-25 16:50:35:288][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:36:591][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:36:591][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:36:591][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:36:591][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:36:601][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:36:601][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:36:606][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1884]iPort[6]
+[2021-01-25 16:50:36:606][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:37:898][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:37:898][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:37:898][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:37:898][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:38:002][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:38:003][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:38:006][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2200]iPort[6]
+[2021-01-25 16:50:38:006][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:39:310][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:39:310][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:39:310][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:39:310][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:39:502][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:39:503][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:39:506][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2292]iPort[6]
+[2021-01-25 16:50:39:506][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:40:818][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:40:818][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:40:818][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:40:818][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:41:002][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:41:003][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:41:006][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2268]iPort[6]
+[2021-01-25 16:50:41:006][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:42:303][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:50:42:303][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:42:303][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:42:303][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:42:503][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:42:504][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:42:508][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1888]iPort[6]
+[2021-01-25 16:50:42:508][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:50:004][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:50:004][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:50:004][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:50:004][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:50:004][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:50:008][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:50:009][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:50:014][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2200]iPort[6]
+[2021-01-25 16:50:50:014][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:53:044][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:53:044][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:53:044][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:53:044][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:53:044][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:53:046][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:53:047][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:53:052][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2268]iPort[6]
+[2021-01-25 16:50:53:052][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:56:082][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:56:082][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:56:082][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:56:082][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:56:082][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:56:086][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:56:086][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:56:090][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2252]iPort[6]
+[2021-01-25 16:50:56:090][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:50:59:120][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:50:59:120][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:50:59:120][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:50:59:120][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:50:59:120][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:50:59:124][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:50:59:125][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:50:59:130][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2200]iPort[6]
+[2021-01-25 16:50:59:130][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:02:160][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:02:160][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:02:160][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:02:160][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:02:160][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:02:161][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:02:162][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:02:166][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2136]iPort[6]
+[2021-01-25 16:51:02:166][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:05:196][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:05:196][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:05:196][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:05:196][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:05:196][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:05:200][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:05:201][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:05:206][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[268]iPort[6]
+[2021-01-25 16:51:05:206][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:08:497][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:08:497][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:08:497][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:08:497][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:08:505][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:08:505][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:08:510][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1888]iPort[6]
+[2021-01-25 16:51:08:510][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:09:817][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:09:817][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:09:817][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:09:817][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:09:822][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:09:823][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:09:828][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2008]iPort[6]
+[2021-01-25 16:51:09:828][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:11:131][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:11:131][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:11:131][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:11:131][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:11:134][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:11:135][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:11:140][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2024]iPort[6]
+[2021-01-25 16:51:11:140][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:12:451][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:12:451][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:12:451][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:12:451][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:12:456][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:12:456][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:12:460][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1888]iPort[6]
+[2021-01-25 16:51:12:460][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:13:765][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:13:765][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:13:765][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:13:765][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:13:770][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:13:770][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:13:774][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2196]iPort[6]
+[2021-01-25 16:51:13:774][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:15:078][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:15:078][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:15:078][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:15:078][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:15:083][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:15:084][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:15:088][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1040]iPort[6]
+[2021-01-25 16:51:15:088][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:16:391][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:16:391][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:16:391][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:16:391][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:16:402][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:16:403][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:16:408][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2196]iPort[6]
+[2021-01-25 16:51:16:408][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:17:719][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:51:17:719][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:17:719][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:17:719][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:17:730][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:17:731][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:17:736][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1884]iPort[6]
+[2021-01-25 16:51:17:736][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:20:766][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:20:766][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:20:766][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:20:766][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:20:766][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:20:773][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:20:774][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:20:778][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2004]iPort[6]
+[2021-01-25 16:51:20:778][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:23:808][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:23:808][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:23:808][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:23:808][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:23:808][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:23:816][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:23:816][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:23:820][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1456]iPort[6]
+[2021-01-25 16:51:23:820][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:26:850][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:26:850][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:26:850][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:26:850][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:26:850][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:26:852][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:26:853][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:26:858][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2140]iPort[6]
+[2021-01-25 16:51:26:858][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:29:888][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:29:888][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:29:888][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:29:888][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:29:888][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:29:892][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:29:893][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:29:898][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1416]iPort[6]
+[2021-01-25 16:51:29:898][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:32:928][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:32:928][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:32:928][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:32:928][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:32:928][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:32:932][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:32:933][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:32:938][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2204]iPort[6]
+[2021-01-25 16:51:32:938][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:35:968][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:35:968][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:35:968][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:35:968][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:35:968][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:35:976][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:35:977][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:35:980][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2288]iPort[6]
+[2021-01-25 16:51:35:980][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:39:010][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:39:010][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:39:010][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:39:010][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:39:010][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:51:39:015][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:51:39:016][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:51:39:020][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[2204]iPort[6]
+[2021-01-25 16:51:39:020][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:51:42:050][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 16:51:42:050][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 16:51:42:050][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:51:42:050][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:51:42:050][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:56:04:958][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:56:04:959][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 16:56:04:963][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 16:56:04:963][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:56:05:032][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1884]iPort[6]
+[2021-01-25 16:56:05:032][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:56:06:329][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:56:06:329][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:56:06:329][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:56:06:329][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 16:56:13:276][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 16:56:13:277][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 16:56:13:344][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1924]iPort[6]
+[2021-01-25 16:56:13:344][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 16:56:14:637][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 16:56:14:637][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 16:56:14:637][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 16:56:14:637][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:04:37:284][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 19:04:37:285][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 19:04:37:289][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 19:04:37:289][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:04:37:292][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:04:37:292][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:04:37:292][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:04:37:292][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:04:38:779][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 19:04:38:780][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:04:38:781][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:04:38:781][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:04:38:781][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:04:38:781][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:04:40:280][IDReader.cpp][17][NORMAL]: iReadMultiCard start[C:\]
+[2021-01-25 19:04:40:281][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:04:40:281][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:04:40:281][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:04:40:281][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:04:40:281][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:04:341][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:04:342][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:04:342][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:04:342][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:04:342][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:04:342][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:05:842][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:05:843][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:05:843][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:05:843][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:05:843][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:05:843][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:07:340][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:07:340][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:07:341][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:07:341][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:07:341][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:07:341][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:32:606][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:32:607][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2021-01-25 19:05:32:611][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2021-01-25 19:05:32:612][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:32:614][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:32:614][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:32:614][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:32:614][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:34:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:34:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:34:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:34:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:34:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:34:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:35:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:35:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:35:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:35:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:35:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:35:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:37:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:37:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:37:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:37:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:37:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:37:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:38:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:38:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:38:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:38:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:38:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:38:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:40:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:40:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:40:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:40:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:40:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:40:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:41:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:41:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:41:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:41:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:41:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:41:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:43:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:43:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:43:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:43:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:43:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:43:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:44:602][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:44:603][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:44:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:44:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:44:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:44:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:46:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:46:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:46:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:46:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:46:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:46:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:47:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:47:603][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:47:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:47:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:47:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:47:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:49:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:49:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:49:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:49:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:49:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:49:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:50:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:50:603][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:50:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:50:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:50:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:50:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:52:104][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:52:105][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:52:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:52:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:52:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:52:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:53:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:53:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:53:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:53:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:53:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:53:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:55:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:55:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:55:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:55:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:55:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:55:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:56:602][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:56:603][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:56:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:56:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:56:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:56:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:58:102][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:58:103][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:58:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:58:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:58:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:58:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:05:59:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:05:59:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:05:59:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:05:59:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:05:59:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:05:59:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:01:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:01:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:01:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:01:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:01:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:01:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:02:602][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:02:603][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:02:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:02:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:02:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:02:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:04:102][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:04:103][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:04:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:04:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:04:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:04:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:05:604][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:05:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:05:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:05:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:05:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:05:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:07:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:07:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:07:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:07:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:07:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:07:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:08:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:08:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:08:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:08:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:08:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:08:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:10:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:10:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:10:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:10:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:10:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:10:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:11:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:11:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:11:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:11:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:11:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:11:605][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:13:103][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:13:104][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:13:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:13:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:13:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:13:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:14:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:14:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:14:604][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:14:604][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:14:604][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:14:604][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:16:102][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:16:103][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:16:104][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:16:104][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:16:104][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:16:104][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:17:604][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:17:605][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:17:605][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:17:605][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:17:605][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:17:606][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:19:104][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:19:105][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:19:105][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2021-01-25 19:06:19:105][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2021-01-25 19:06:19:105][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2021-01-25 19:06:19:105][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:20:603][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:20:604][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:21:506][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1972]iPort[6]
+[2021-01-25 19:06:21:507][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 19:06:24:537][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 19:06:24:537][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 19:06:24:537][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 19:06:24:537][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 19:06:24:537][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:24:539][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:24:539][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:24:542][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1928]iPort[6]
+[2021-01-25 19:06:24:543][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 19:06:27:572][IDReader_MDS.cpp][209][NORMAL]: CMDS IDReaderMultiCard iRet[-45]
+[2021-01-25 19:06:27:573][TSIDReader.cpp][159][NORMAL]: iDev_IDReaderMultiCard iRet[-10128]
+[2021-01-25 19:06:27:573][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 19:06:27:573][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 19:06:27:573][IDReader.cpp][20][NORMAL]: iReadMultiCard end
+[2021-01-25 19:06:30:224][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2021-01-25 19:06:30:225][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2021-01-25 19:06:30:228][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[1920]iPort[6]
+[2021-01-25 19:06:30:229][IDReader_MDS.cpp][62][NORMAL]: CMDS IDReader open end
+[2021-01-25 19:06:31:531][IDReader_MDS.cpp][212][NORMAL]: CMDS IDReaderMultiCard end[0]
+[2021-01-25 19:06:31:531][IDReader_MDS.cpp][68][NORMAL]: CMDS IDReader close start
+[2021-01-25 19:06:31:531][IDReader_MDS.cpp][72][NORMAL]: ICC_Reader_Close iRet[0]
+[2021-01-25 19:06:31:531][IDReader.cpp][20][NORMAL]: iReadMultiCard end

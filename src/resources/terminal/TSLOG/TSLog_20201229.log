@@ -1,0 +1,8 @@
+[2020-12-29 14:03:07:969][IDReader.cpp][17][NORMAL]: iReadMultiCard start[D:\]
+[2020-12-29 14:03:07:970][IDReader_MDS.cpp][28][NORMAL]: CMDS IDReader Load Dll start
+[2020-12-29 14:03:08:311][IDReader_MDS.cpp][46][NORMAL]: CMDS IDReader Load Dll end
+[2020-12-29 14:03:08:311][IDReader_MDS.cpp][52][NORMAL]: CMDS IDReader open start
+[2020-12-29 14:03:08:312][IDReader_MDS.cpp][56][NORMAL]: ICC_Reader_Open iRet[-11]iPort[6]
+[2020-12-29 14:03:08:312][TSIDReader.cpp][224][ERROR]: DevOpenIDReader iRet[-11]
+[2020-12-29 14:03:08:312][TSIDReader.cpp][143][ERROR]: iTSReadSFZ Error iRet[-11][´ò¿ª¶ÁÐ´Æ÷Ê§°Ü]
+[2020-12-29 14:03:08:312][IDReader.cpp][20][NORMAL]: iReadMultiCard end

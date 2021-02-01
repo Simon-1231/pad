@@ -1,0 +1,35 @@
+.my-keyboard {
+    width: 1000px;
+     /* min-width: 1000px; */
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color:#6c7177;
+  }
+  .my-keyboard .main-keyboard {
+    padding: 0 14px;
+    background: #e6e6e6;
+    height: auto;
+    min-height: 400px;
+    width: 95%;
+  }
+  .my-keyboard__mini .main-keyboard .key[data-v-33cdb934] {
+    width: auto;
+    min-width: 70px;
+  }
+  .my-keyboard .select-list .page > p + p[data-v-33cdb934] {
+    margin-left: 45px;
+  }
+  .my-keyboard .select-list .select-text + .select-text[data-v-33cdb934] {
+    margin-left: 30px;
+  }
+  .my-keyboard .main-keyboard .red[data-v-33cdb934] {
+      display: none;
+  }
+  /* .my-keyboard .main-keyboard .blue[data-v-33cdb934] {
+      display: none;
+  } */
+  .my-keyboard .select-list .page[data-v-33cdb934] {
+    width: 140px;
+  }
