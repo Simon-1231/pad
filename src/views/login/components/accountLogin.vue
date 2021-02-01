@@ -8,7 +8,7 @@
       label-width="10rem"
       class="demo-ruleForm"
     >
-      <el-form-item label="请输入账号" prop="username">
+      <el-form-item label="请输入账号11" prop="username">
         <el-input
           type="text"
           v-model.trim="ruleForm.username"

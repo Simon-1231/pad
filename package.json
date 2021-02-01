@@ -38,6 +38,7 @@
     "ref-array-napi": "^1.2.1",
     "ref-napi": "^3.0.1",
     "ref-struct-napi": "^1.1.1",
+    "update-electron-app": "^2.0.1",
     "vue": "~2.6.12",
     "vue-axios": "^2.1.5",
     "vue-dusion-keyboard": "^3.0.0",

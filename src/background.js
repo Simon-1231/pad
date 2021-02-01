@@ -48,6 +48,7 @@ function createWindow() {
     win.loadURL("app://./index.html");
     // autoUpdater.checkForUpdatesAndNotify();
     // updateHandle(win);
+    require("update-electron-app")();
   }
 
   win.on("closed", () => {
