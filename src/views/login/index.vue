@@ -2,7 +2,7 @@
   <div class="home">
     <div class="form">
       <el-tabs v-model="activeName" @tab-click="handleClick" type="border-card">
-        <el-tab-pane label="账号密码登录qq" name="first">
+        <el-tab-pane label="账号密码登录" name="first">
           <accountLogin :exInfo="exInfo"></accountLogin>
         </el-tab-pane>
         <el-tab-pane label="身份证扫描登录" name="second">
