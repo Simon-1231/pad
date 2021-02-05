@@ -7,26 +7,6 @@
     <keep-alive :exclude="excludeList">
       <router-view />
     </keep-alive>
-    <el-dialog
-      title="正在更新新版本,请稍候..."
-      :visible.sync="dialogVisible"
-      width="60%"
-      :close-on-click-modal="closeOnClickModal"
-      :close-on-press-escape="closeOnPressEscape"
-      :show-close="showClose"
-      center
-    >
-      <div style="width:100%;height:20vh;line-height:20vh;text-align:center">
-        <el-progress
-          status="success"
-          :text-inside="true"
-          :stroke-width="20"
-          :percentage="percentage"
-          :width="strokeWidth"
-          :show-text="true"
-        ></el-progress>
-      </div>
-    </el-dialog>
 
     <!-- <vue-dusion-keyboard all observer class="my-keyboard"></vue-dusion-keyboard> -->
   </div>
@@ -54,13 +34,7 @@ export default {
         "entEditor",
         "CheckResume",
         "toptitle"
-      ],
-      dialogVisible: false,
-      closeOnClickModal: false,
-      closeOnPressEscape: false,
-      showClose: false,
-      percentage: 0,
-      strokeWidth: 200
+      ]
     };
   },
   created() {

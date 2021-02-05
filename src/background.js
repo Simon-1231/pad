@@ -4,6 +4,7 @@ import { createProtocol } from "vue-cli-plugin-electron-builder/lib";
 
 // import { updateHandle } from "./update";
 // import { autoUpdater } from "electron-updater";
+import { checkUpdate } from "@/common/checkUpdater";
 // import installExtension, { VUEJS_DEVTOOLS } from "electron-devtools-installer";
 const isDevelopment = process.env.NODE_ENV !== "production";
 var ipcMain = require("electron").ipcMain;
@@ -47,8 +48,9 @@ function createWindow() {
     createProtocol("app");
     win.loadURL("app://./index.html");
     // autoUpdater.checkForUpdatesAndNotify();
+    checkUpdate(window);
     // updateHandle(win);
-    require("update-electron-app")();
+    // require("update-electron-app")();
   }
 
   win.on("closed", () => {

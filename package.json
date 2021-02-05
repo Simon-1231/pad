@@ -18,7 +18,8 @@
     "postinstall": "electron-builder install-app-deps",
     "postuninstall": "electron-builder install-app-deps",
     "start": "node src/index1.js",
-    "electron": "npx electron main.js"
+    "electron": "npx electron main.js",
+    "publish": "vue-cli-service electron:build --win --x64 -p always"
   },
   "main": "background.js",
   "dependencies": {
